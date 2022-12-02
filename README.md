@@ -1,6 +1,6 @@
 ### Olá, meu nome é João Victor e seja bem-vindo(a) ao meu repositório!
 
-![João Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=jvmacedos&theme=blue-green)
+![João Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=jvmacedos&theme=dark)
 
 ## Tenho facilidade e utilizo das seguintes tecnologias:
 
@@ -14,6 +14,15 @@
   <img align="center" alt="googleanalitycs" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />
 </div><br/>
 
-# Para mais informações e contato:
+## Principal portfólio:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jvmacedos&repo=DataScience.py)](https://github.com/jvmacedos/DataScience.py)
+
+### Para mais informações e contato:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jvmacedos_/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3ov-macedo/)
+
+### Perfil com certificados:
+[![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)]()
+
+
+
