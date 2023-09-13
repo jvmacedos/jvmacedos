@@ -13,11 +13,6 @@
   <img align="center" alt="googleanalitycs" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />
 </div><br/>
 
-
-## Atualmente estou estudando as seguintes linguagens:
-   <img align="center" alt="r" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-
-
 ## Principal portfólio:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jvmacedos&repo=DataScience.py)](https://github.com/jvmacedos/DataScience.py)
 
