@@ -14,7 +14,7 @@
 </div><br/>
 
 ## Principal portfólio:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jvmacedos&repo=Champions23.py)](https://github.com/jvmacedos/Champions23)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jvmacedos&repo=Champions23)](https://github.com/jvmacedos/Champions23)
 
 ### Para mais informações e contato:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jvmacedos_/)
